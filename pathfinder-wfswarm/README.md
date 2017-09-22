@@ -1,0 +1,1 @@
+An example using [WildFly Swarm](http://wildfly-swarm.io)
